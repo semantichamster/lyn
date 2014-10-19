@@ -7,8 +7,7 @@ Their mission is to help military families reconnect after deployments through 5
 Heal Our Heroes based in Texas and Project Sanctuary based in Colorado are the only two organizations focused
 on helping military families reconnect through recreational therapeutic retreats. These two organizations
 share resources and use the same web hosting and maintenance firm.
-[Visit Heal Our Heroes] (www.hohproject.org)
-[Visit Project Sanctuary] (www.projectsanctuary.us)
+
 
 ## Goals of Opportunity Hack Austin Backoffice Automation Project
 
@@ -45,7 +44,7 @@ share resources and use the same web hosting and maintenance firm.
 - Email volunteers from spreadsheet
 - Email families from spreadshhet
 - Perform time motion study to quantify time saved which can be shifted to fundraising
-- 
+
 ## Make Operationalized Proof of Concept Sustainable
 1. Approach ATX Hackerspace and Austin Pair Programming to extend github repo
 2. Ask for Volunteers to write JS scripts to scrape webmails for 1500 retreat requests
