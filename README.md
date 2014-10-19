@@ -1,5 +1,5 @@
 ## Heal Our Heroes Backoffice Automation Project
-## Hackathon Austin Oct 18-19, 2014 eBay
+### Hackathon Austin Oct 18-19, 2014 sponsored by eBay, Inc.
 ## Heal Our Heroes Project Mission
 
 Their mission is to help military families reconnect after deployments through 5-day/4-night recreational therapeutic retreats. The five day retreats give the soldier and their family member’s adequate time to begin to decompress and begin the healing cycle.
@@ -38,6 +38,7 @@ share resources and use the same web hosting and maintenance firm.
 - VolunteerContactInfo Google Form
 - VolunteerBackGroundCheck Google Form
 - FamilyEnrollment Google Form
+### End of Hackathon Austin Effort
 
 ## Operationalize Proof of Concept
 - Work with Staff to populate RetreatManager spreadsheet
